@@ -6,10 +6,7 @@
 
         }
         catch(ArithmeticException e){
-            System.out.println("inner catch not divi" +
-                    "3254\d" +
-                    "]=[-   `1  34567-0[" +
-                    "4ed ");
+            System.out.println("inner not divieded");
         }
 
         System.out.println(" outer try continues ");
