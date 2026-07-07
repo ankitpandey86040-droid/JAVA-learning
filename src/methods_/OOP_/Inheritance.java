@@ -1,4 +1,6 @@
- class Animal {       // PARENT CLASS
+package methods_.OOP_;
+
+class Animal {       // PARENT CLASS
     void eat(){
         System.out.println("Eating");
     }

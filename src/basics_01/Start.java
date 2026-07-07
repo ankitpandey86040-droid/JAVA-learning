@@ -1,3 +1,5 @@
+package basics_01;
+
 class Area {
      static void fun1(){
         System.out.println("blablabla");

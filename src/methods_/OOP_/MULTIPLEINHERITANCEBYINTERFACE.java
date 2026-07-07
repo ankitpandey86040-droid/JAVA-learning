@@ -1,4 +1,6 @@
- interface Camera{
+package methods_.OOP_;
+
+interface Camera{
     void clickPhoto();
 }
 
