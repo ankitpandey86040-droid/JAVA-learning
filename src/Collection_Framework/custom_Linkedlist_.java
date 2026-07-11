@@ -9,7 +9,7 @@ class Node {
         this.next = null;
     }
 }
-public class Linkedlist_ {
+class Custom_Linkedlist_ {
     public static void main(String[] args) {
         Node n1 = new Node(10);
         System.out.println(n1.data);
