@@ -2,7 +2,7 @@ package Collection_Framework;
 import java.util.Hashtable;
 import java.util.Map;
 
-public class Hashtable_ {
+public class HashTable_ {
 
     public static void main(String[] args) {
 
