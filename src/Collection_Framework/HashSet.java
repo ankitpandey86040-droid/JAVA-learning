@@ -1,13 +1,12 @@
 package Collection_Framework;
 
-import java.util.HashSet;
 import java.util.Set;
 
-public class Java_HashSet {
+public class HashSet {
 
     public static void main(String[] args) {
 
-        Set<Integer> set = new HashSet<>();
+        Set<Integer> set = new java.util.HashSet<>();
 
         // Add
         set.add(10);

@@ -3,7 +3,7 @@ package Collection_Framework;
 import java.util.Map;
 import java.util.TreeMap;
 
-public class TreeMap_g {
+public class TreeMap_ {
 
     public static void main(String[] args) {
 
