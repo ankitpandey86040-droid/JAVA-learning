@@ -1,6 +1,6 @@
 package Multithreading;
 
-class MyThread extends Thread {
+class MyThread1 extends Thread {
 
     @Override
     public void run() {
