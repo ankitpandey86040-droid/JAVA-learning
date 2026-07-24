@@ -1,4 +1,4 @@
-package Multithreading;
+git package Multithreading;
 
 class MyThread extends Thread {
 
